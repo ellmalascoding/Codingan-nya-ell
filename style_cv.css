@@ -1,0 +1,52 @@
+.margin {
+  margin: 5px;
+  box-sizing: border-box;  
+}
+
+.body {
+    height: 95vh;
+    background-color: rgb(188, 230, 237);
+    
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+.main {
+    display: flex;
+    flex: 1;
+}
+
+.img {
+    position: relative;
+    bottom: 40px;
+    right: 90px;
+    background-size: cover;
+    border-radius: 100%;
+}
+
+
+
+.isi {
+    background-color: rgb(82, 70, 56);
+    padding: 5em 5em 7em 0;
+    flex: 5 5 100px;
+}
+
+.header {
+    background-color: gray;
+    padding: 3em 5em 0;
+}
+
+.left {
+    background-color: darkgray;
+    padding: 7em 1.50em 5em 0;
+    flex: 1 1 100px;
+}
+
+.footer {
+    background-color: rgb(92, 134, 141);
+    padding: 1em 18.42em 0;
+    position: absolute; top: 1100px;
+}
+
