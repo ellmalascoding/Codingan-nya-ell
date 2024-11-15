@@ -6,7 +6,7 @@
 .body {
     height: 95vh;
     background-color: rgb(188, 230, 237);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
     color: rgb(255, 255, 255);
     font-size: 20px;
     display: flex;
